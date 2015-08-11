@@ -10,9 +10,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by muppala on 4/5/15.
- */
+
 public class MyArrayAdapter extends ArrayAdapter<Message> {
     private final Context context;
     private final ArrayList<Message> messages;
